@@ -1,4 +1,4 @@
-# Python Tkinter Image Text Processor
+# Python Image Text Processor
 
 This Python Tkinter project is designed to open images, extract text from them, open links, correct the extracted text, and translate it to another language. It provides a graphical user interface (GUI) built with Tkinter for easy interaction.
 
