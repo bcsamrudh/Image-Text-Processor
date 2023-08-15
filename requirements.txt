@@ -1,0 +1,5 @@
+googletrans
+pytesseract
+Pillow
+textblob
+langdetect
